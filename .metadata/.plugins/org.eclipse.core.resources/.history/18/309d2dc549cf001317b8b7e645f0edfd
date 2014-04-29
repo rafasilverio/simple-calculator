@@ -16,7 +16,7 @@ import android.widget.Toast;
 
 /*
  * @author Rafael Silvério da Silva <rafasilverio0@gmail.com>
- * @version 0.1 - http://github.com/rafasilverio/simple-calculator
+ * @version 0.1 - http://github.com/rafasilverio/
  * */
 //Main
 public class MainActivity extends ActionBarActivity {
